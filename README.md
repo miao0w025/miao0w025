@@ -1,5 +1,5 @@
 
-![Roblox Screenshot](https://github.com/<username>/<repo>/blob/main/images/RobloxScreenShot20250919_215822177.png?raw=true)
+![Roblox Screenshot](https://github.com/miao0w025/miao0w025/blob/main/RobloxScreenShot20250919_215822177.png?raw=true)
 
 ## Hi there, It's Miao page 👋
 

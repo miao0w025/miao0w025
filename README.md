@@ -12,7 +12,9 @@
 🌟 I’m looking for help with my new project.
 
 🌟 How to reach me: Here are my social account ↴
+
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/miao.OwO25)
+
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/owo.miao/)
 
 🌟 Pronouns: call me anything u want

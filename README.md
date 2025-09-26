@@ -13,7 +13,14 @@
 
 - ✨ How to reach me: Here are my social accounts ↴
 
-<p align="center"> [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/miao.OwO25)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/owo.miao/) </p>
+<p align="center">
+  <a href="https://www.facebook.com/miao.OwO25">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/owo.miao/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 - ✨ Fun fact: Sea is blue because fish breath 'blu blu blu'

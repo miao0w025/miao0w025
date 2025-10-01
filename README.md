@@ -51,7 +51,7 @@ Nếu bạn muốn kết nối hoặc bàn luận về một project nào đó, 
 ## 🐾 Hobbies  
 - 📖 Đọc truyện tranh (đặc biệt là manga shounen & slice of life).  
 - 🎮 Thỉnh thoảng chơi game để giải tỏa stress (Roblox, Genshin, Liên Minh…).  
-- ☕ Ngồi cà phê chill một mình với laptop.  
+- ☕ Uống trà sữa hát karaoke với bạn bè.  
 - ✈️ Ước mơ được đi du lịch Nhật Bản trong tương lai.  
 
 ---

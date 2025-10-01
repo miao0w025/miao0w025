@@ -42,8 +42,8 @@ Ngoài việc học, mình còn thích **chơi game, đọc truyện tranh và l
 
 ## 📬 How to reach me  
 Nếu bạn muốn kết nối hoặc bàn luận về một project nào đó, có thể liên hệ qua:  
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)  
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)  
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/miao.OwO25/)  
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/owo.miao/)  
 - 📧 Email: *n23dcpt018@student.ptithcm.edu.vn*  
 
 ---
